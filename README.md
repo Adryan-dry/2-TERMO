@@ -5,9 +5,9 @@
 
 <!-- BADGES INFORMATIVAS (IGUAL AO EXEMPLO) -->
 <div align="center">
-  <img src="https://shields.io" alt="Foco">
-  <img src="https://shields.io" alt="Área">
-  <img src="https://shields.io" alt="Interesses">
+  <img src="[https://shields.i](https://unsplash.com/pt-br/fotografias/um-desenho-de-um-ramo-de-flores-em-uma-folha-de-papel-Y-iZTAcIeTY)o" alt="Foco">
+  <img src="[https://shields.io](https://unsplash.com/pt-br/fotografias/um-desenho-de-um-ramo-de-flores-em-uma-folha-de-papel-Y-iZTAcIeTY)" alt="Área">
+  <img src="[https://shields.io](https://unsplash.com/pt-br/fotografias/um-desenho-de-um-ramo-de-flores-em-uma-folha-de-papel-Y-iZTAcIeTY)" alt="Interesses">
 </div>
 
 <p align="center">
