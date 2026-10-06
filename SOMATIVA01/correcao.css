@@ -1,0 +1,156 @@
+/* Configurações Gerais*/
+body{
+    font-family: times new roman, sans-serif;
+    background-color: #cbc4c4;
+    color: #333232;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho*/
+header{
+    background-color: #936b2b;
+    color: rgb(245, 245, 245);
+    text-align: center;
+    padding: 20px;
+}
+
+header h1{
+    font-weight: 300;
+    font-size: 42px;
+    margin: 10px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Painel de Navegação*/
+nav {
+    margin-top: 25px;
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+/*Conteúdo Principal*/
+main { 
+    margin: 30px;
+}
+
+section h2 {
+    color: #10100f;
+    font-size: 30px;
+    text-align: center;
+}
+
+section h3 {
+    color: #936b2b;
+
+}
+
+section p {
+    font-size:17px;
+    line-height: 1.6;
+}
+
+.imagem-principal {
+    width: 500px;
+    max-width: 100%;
+    display: block;
+    margin: 20px auto;
+}
+
+.web {
+    background-color: #ab7835;
+    border: 2px solid #d2cdc3;
+    margin:20px;
+}
+
+.sistemas {
+    background-color: #8f6121;
+    border: 2px solid #d2cdc3;
+    margin:20px;
+
+}
+
+.consultoria {
+    background-color: #8d652c;
+    border: 2px solid #d2cdc3;
+    margin:20px;
+
+}
+
+.bd {
+    background-color: #986114;
+    border: 2px solid #d2cdc3;
+    margin:20px;
+
+}
+
+/* Todos poderiam ser reduzidos a apenas uma classe*/
+.cartoes_servicos{
+    background-color: #a58f70;
+    border: 1px solid #d2cdc3;
+    margin:20px;
+    padding: 20px;
+}
+
+.funcionarios { 
+    background-color: #a58f70;
+    border: 1px solid #cccccc;
+    margin: 20 px;
+    padding:20px;
+    text-align: center;
+}
+ .funcionarios img {
+   width: 150px;
+   height: 150px;
+ }
+
+ .vendas {
+    background-color: #a58f70;
+    border: 1px solid #cccccc;
+    margin: 20px ;
+    padding: 20px;
+
+ }
+ .aplicativo {
+    background-color: #a58f70;
+    border: 1px solid #cccccc;
+    margin: 20 px;
+    padding: 20px;
+ }
+
+ .site {
+    background-color: #f8f8f8;
+    border: 1px solid #cccccc;
+    margin: 20 px;
+    padding: 20px;
+ }
+
+ button {
+    background-color: #936b2b;
+
+    color: rgb(64, 59, 59);
+    border:2cap;
+    padding: 12 px 12 px;
+    margin: 15 px;
+    font-size: 25 px;
+ }
+
+ footer {
+    background-color: #936b2b;
+    color: white;
+    text-align: center;
+    padding: 25px;
+ }
+
+ footer p {
+    font-size:14px
+ }
+ 
