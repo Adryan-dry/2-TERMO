@@ -1,19 +1,64 @@
-# 2-TERMO
-### ☕ Um pouco sobre mim
+# About me! 👋
 
-Estou na jornada de aprender programação do zero. Gosto de entender como as coisas funcionam, desde a estrutura da tela até como os dados ficam salvos de verdade. Escrevo códigos errados até eles darem certo! 
+<div align="center">
+  <img src="https://shields.io" alt="Estilo Marrom">
+  <img src="https://shields.io" alt="Foco">
+</div>
 
-* 💻 **No momento:** Estudando bastante **JavaScript**, estruturando páginas com **HTML/CSS** e quebrando a cabeça com modelagem de **Banco de Dados** (SQL).
-* 🚀 **Objetivo:** Conseguir criar aplicações completas (front e back) e minha primeira oportunidade na área.
-* 🎯 **Regra de ouro:** Um commit por dia para manter o ritmo.
+<br>
 
-### 🧰 O que tenho usado nos estudos
+Sou um entusiasta do comportamento humano, das grandes perguntas da vida e da arte dos sons. Recentemente, decidi canalizar essa curiosidade natural para o universo da tecnologia. Enxergo a programação não apenas como código, mas como uma ferramenta para traduzir pensamentos complexos em soluções lógicas.
 
-### **Front-end**
+---
 
-### **Back-end & Banco de Dados**
+### 🪵 Sobre Mim
 
-### **Ferramentas**
+- 🧠 **Psicologia & Filosofia:** Fascinado por como a mente humana funciona e como estruturamos nossa percepção do mundo. Acredito que a lógica de programação tem muito em comum com os processos cognitivos.
+- 🎵 **Música:** - 🎵 **Música:** Não vivo sem. Encontro foco e inspiração na poesia da **MPB**, na atmosfera do **Pop Alternativo** e na energia do **Rock**. Além disso, sou fã da força e das vivências do **Rap Feminino** (ouvindo muito *MC Luanna* e *Nanda Tsunami*), que me trazem a atitude necessária para encarar novos desafios no código.
 
-### 📊 Meus números no GitHub
+- 🚀 **Objetivo:** Construir uma base sólida em desenvolvimento de software e criar projetos que unam comportamento, lógica e utilidade real.
 
+---
+
+### ☕ Tecnologias e Ferramentas
+
+No momento, estou focado em dominar os fundamentos e expandir meu conhecimento nestas tecnologias:
+
+<div align="left">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="Banco de Dados">
+</div>
+
+---
+
+### 🎧 Minha Trilha Sonora de Estudos
+
+*O que costuma tocar no meu fone de ouvido enquanto decifro códigos e leio sobre a mente humana:*
+
+- 🎸 **Rock:** Clássicos e vertentes alternativas para aqueles momentos que exigem máxima energia e foco na resolução de bugs.
+- ☕ **MPB:** A calmaria, as letras profundas e a poesia brasileira (ótimo para ler documentações e estruturar ideias).
+- 🌌 **Pop Alternativo:** Batidas modernas e atmosferas sonoras perfeitas para entrar no estado de *flow*.
+
+
+### 🗂️ Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150">
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150">
+</div>
+
+---
+
+### 🟫 Vamos Conversar?
+
+Se você também gosta de debater sobre estoicismo, comportamento humano, trocar recomendações de músicas ou simplesmente falar sobre código, sinta-se à vontade para se conectar comigo!
+
+<div align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu.email@exemplo.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</div>
