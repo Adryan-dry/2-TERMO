@@ -1,28 +1,43 @@
-# About me! 👋
+<!-- BANNER SUPERIOR DINÂMICO ESTILO MARROM MODERNO -->
+<p align="center">
+  <img src="https://vercel.app" alt="Banner Marrom">
+</p>
 
+<!-- BADGES INFORMATIVAS (IGUAL AO EXEMPLO) -->
 <div align="center">
-  <img src="https://shields.io" alt="Estilo Marrom">
   <img src="https://shields.io" alt="Foco">
+  <img src="https://shields.io" alt="Área">
+  <img src="https://shields.io" alt="Interesses">
 </div>
+
+<p align="center">
+  <code>Psicologia</code> • <code>Filosofia</code> • <code>Música</code> • <code>Código</code>
+</p>
 
 <br>
 
-Sou um entusiasta do comportamento humano, das grandes perguntas da vida e da arte dos sons. Recentemente, decidi canalizar essa curiosidade natural para o universo da tecnologia. Enxergo a programação não apenas como código, mas como uma ferramenta para traduzir pensamentos complexos em soluções lógicas.
+## 🧠 Sobre mim
+
+Sou um entusiasta do comportamento humano, das grandes perguntas da vida e da arte dos sons. Decidi canalizar essa curiosidade natural para o universo da tecnologia. Enxergo a programação não apenas como código, mas como uma ferramenta para traduzir pensamentos complexos em soluções lógicas.
+
+*   **Estudando desenvolvimento de sistemas** com foco em lógica de programação e aprendizagem prática.
+*   **Compreendendo os fundamentos** de Python, JavaScript e Bancos de Dados (BCD).
+*   **Conectando áreas:** Acredito que a psicologia cognitiva e a filosofia estoica ajudam muito a estruturar o pensamento lógico para resolver problemas no código.
+*   **Trilha Sonora Ativa:** Não vivo sem música. Uso o ritmo e a poesia urbana para entrar no estado de foco absoluto.
 
 ---
 
-### 🪵 Sobre Mim
+## 🎧 Minha Trilha Sonora de Estudos
 
-- 🧠 **Psicologia & Filosofia:** Fascinado por como a mente humana funciona e como estruturamos nossa percepção do mundo. Acredito que a lógica de programação tem muito em comum com os processos cognitivos.
-- 🎵 **Música:** - 🎵 **Música:** Não vivo sem. Encontro foco e inspiração na poesia da **MPB**, na atmosfera do **Pop Alternativo** e na energia do **Rock**. Além disso, sou fã da força e das vivências do **Rap Feminino** (ouvindo muito *MC Luanna* e *Nanda Tsunami*), que me trazem a atitude necessária para encarar novos desafios no código.
+*O que costuma tocar no meu fone de ouvido enquanto decifro códigos:*
 
-- 🚀 **Objetivo:** Construir uma base sólida em desenvolvimento de software e criar projetos que unam comportamento, lógica e utilidade real.
+*   **Rap Feminino:** Ritmo, poesia de rua e a postura forte de artistas como *MC Luanna* e *Nanda Tsunami* para dar aquela energia nos projetos.
+*   **Rock:** Vertentes clássicas e alternativas para momentos de foco total e resolução de bugs complexos.
+*   **MPB & Pop Alternativo:** Letras profundas, calmaria e atmosferas sonoras perfeitas para sentar e ler documentações.
 
 ---
 
-### ☕ Tecnologias e Ferramentas
-
-No momento, estou focado em dominar os fundamentos e expandir meu conhecimento nestas tecnologias:
+## ☕ Tecnologias em Aprendizado
 
 <div align="left">
   <img src="https://shields.io" alt="Python">
@@ -32,16 +47,7 @@ No momento, estou focado em dominar os fundamentos e expandir meu conhecimento n
 
 ---
 
-### 🎧 Minha Trilha Sonora de Estudos
-
-*O que costuma tocar no meu fone de ouvido enquanto decifro códigos e leio sobre a mente humana:*
-
-- 🎸 **Rock:** Clássicos e vertentes alternativas para aqueles momentos que exigem máxima energia e foco na resolução de bugs.
-- ☕ **MPB:** A calmaria, as letras profundas e a poesia brasileira (ótimo para ler documentações e estruturar ideias).
-- 🌌 **Pop Alternativo:** Batidas modernas e atmosferas sonoras perfeitas para entrar no estado de *flow*.
-
-
-### 🗂️ Estatísticas do GitHub
+## 🗂️ Estatísticas
 
 <div align="center">
   <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150">
@@ -50,9 +56,9 @@ No momento, estou focado em dominar os fundamentos e expandir meu conhecimento n
 
 ---
 
-### 🟫 Vamos Conversar?
+## 🟫 Vamos Conversar?
 
-Se você também gosta de debater sobre estoicismo, comportamento humano, trocar recomendações de músicas ou simplesmente falar sobre código, sinta-se à vontade para se conectar comigo!
+Se você também gosta de debater sobre comportamento humano, trocar recomendações de músicas ou simplesmente falar sobre programação, sinta-se à vontade para se conectar!
 
 <div align="left">
   <a href="https://linkedin.com" target="_blank">
