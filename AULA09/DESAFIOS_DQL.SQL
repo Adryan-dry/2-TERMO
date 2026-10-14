@@ -120,3 +120,15 @@ GROUP BY cidade;
 -- Por que essa informação é útil?
 --
 -- Consulta:
+
+----------------------CHECKLIST-----------------------------------
+-- Sei diferenciar DDL, DQL e DML.
+
+-- Consigo inserir uma ou várias linhas.
+
+-- Entendo AUTO_INCREMENT, DEFAULT e NULL.
+
+-- Consigo atualizar uma ou várias linhas com segurança.
+
+-- Sei utilizar COMMIT e ROLLBACK como apoio às operações.
+
