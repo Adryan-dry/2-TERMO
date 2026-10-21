@@ -1,11 +1,11 @@
--- Active: 1788351689620@@127.0.0.1@3306@smartcoffee_dml_beatriz
+-- Active: 1788351836192@@127.0.0.1@3306@smartcoffee_dml_adryan
 -- ============================================================
 -- AULA 08 - ATIVIDADE PRÁTICA DE DML
--- Nome: BEATRIZ BARROS DE SOUSA
+-- Nome: ADRYAN COSTA GALZERANO
 -- Turma: 2-DEVIE Data: 30/09/2026
 -- Base: smartcoffee_dml
 -- ============================================================
-USE smartcoffee_dml_beatriz;
+USE smartcoffee_dml_adryan;
 
 -- IMPORTANTE:
 -- Para toda questão de UPDATE ou DELETE, escreva primeiro um SELECT
@@ -15,8 +15,8 @@ USE smartcoffee_dml_beatriz;
 
 -- 1. Cadastre dois novos clientes com dados diferentes.
 INSERT INTO cliente (nome, email, telefone, cidade, ativo) VALUES
-('João Guilherme', 'joaogui@email.com', '19 92565-8690', 'Espirito Santo', TRUE),
-('Livia Marabesi', 'marabesi@email.com', '19 98723-5467', 'Limeira', FALSE);
+('Ellen Karoliny', 'ellen@email.com', '19 99991-0000', 'Limeira', TRUE),
+('Maria Gabriela', 'maria@email.com', '19 99992-1111', 'Minas Gerais', FALSE);
 
 
 -- 2. Cadastre a categoria 'Especiais da Casa'.
@@ -25,15 +25,15 @@ INSERT INTO categoria (nome) VALUES
 
 
 -- 3. Localize o id da categoria criada e cadastre três produtos nela.
-SELECT*FROM categoria
+SELECT*FROM PRODUTO
 
 INSERT INTO produto (nome,preco,ativo,id_categoria) VALUES
-('Adryan Brigadeiro', 4.50, TRUE, 7);
+('Brigadeiro', 4.50, TRUE, 7);
 
 
 -- 4. Cadastre um terceiro cliente sem telefone.
 INSERT INTO cliente (nome,email,telefone,cidade,ativo) VALUES
-('Vinicius Guedes','guedes@email.com', NULL,'Limeira',TRUE);
+('Julia Ferreira','julia.longo@email.com', NULL,'Limeira',TRUE);
 
 
 -- 5. Crie um novo pedido para um dos clientes cadastrados.
@@ -78,11 +78,15 @@ WHERE id_pedido = 4
 
 -- 11. Atualize valor_total do pedido de acordo com os itens cadastrados.
 --     Você pode calcular previamente com SELECT SUM(quantidade * preco_unitario).
-
+UPDATE item_pedido
+SET valor_total = preco unitario *  quantidade
+WHERE 
 
 
 -- 12. Escolha um dos produtos criados e faça uma exclusão lógica (ativo = FALSE).
-
+UPDATE PRODUTO
+SET ATIVO = FALSE
+WHERE ID_PRODUTO = 4 
 
 -- PARTE C - DELETE
 

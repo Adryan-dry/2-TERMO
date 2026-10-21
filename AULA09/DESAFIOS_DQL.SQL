@@ -1,6 +1,6 @@
 -- Active: 1788351836192@@127.0.0.1@3306@smartcoffee_dml_adryan
 -- ============================================================
--- AULA 09 - ATIVIDADE PRÁTICA DE DQL
+ 
 -- Nome: ADRYAN COSTA GALZERANO
 -- Turma: 2DEVIE-2/26                     Data:07/10/2026
 -- Base: smartcoffee_dql
